@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1;);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    margin: auto;
+    height: 670px;
+    width: 750px;
+    padding-left: 50px;
+}
+.txt{
+    font-size: 35px;
+    color: navy;
+    text-align: center;
+    margin-top: 100px;
+}
+.container1{
+    height: 400px;
+    width: 450px;
+    margin: auto;
+    color: navy;
+    font-size: 20px;
+}
+.txtinput{
+    width: 350px;
+    height: 35px;
+    margin-left: 70px;
+    background-color: rgb(192, 215, 250);
+}
+.inputbtn{
+    margin-left: 70px;
+}
+.inbtn{
+    height: 20px;
+    width: 30px;
+}
+.sign button{
+    background-color: rgb(36, 0, 128);
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    align-content: center;
+    font-size: 18px;
+    color:white;
+    border-radius: 5px;
+}
+.sign{
+    width: 150px;
+    height:60px ;
+    padding-top: 140px;
+    padding-left: 280px;
+}
